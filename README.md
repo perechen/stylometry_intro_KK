@@ -7,8 +7,8 @@ Small collection of early Estionian fiction comes from [**E-raamatute eeltööde
 
 #### Workflow
 
-`00_data_plots.R` contains all code for Figure 1--4 construction.  
-`01_experimental_setup.R` runs main experiments, saves the results (data for Fig 5-6).  
+`00_data_plots.R` contains all code for Figures 1-4 construction.  
+`01_experimental_setup.R` runs main experiments, saves the results (data for Figures 5-6).  
 `02_plots_final.R` uses previously saved results (`/data`) to produce final publication plots.  
 
 
