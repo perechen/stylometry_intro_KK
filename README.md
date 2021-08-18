@@ -11,5 +11,7 @@ Small collection of early Estionian fiction comes from [**E-raamatute eeltööde
 `01_experimental_setup.R` runs the main experiments, saves the results (data for Fig 5-6).  
 `02_plots_final.R` uses previously saved results (`/data`) to produce final publication plots.  
 
-![](greyscale_plots/Fig4_grey.png)
+
+<img src="greyscale_plots/Fig4_grey.png" alt="drawing" width="800"/>
+
 
